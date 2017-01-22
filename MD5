@@ -1,0 +1,15 @@
+2ffe6effcec6c73f54a991657f173b34 *DESCRIPTION
+d29f961a2bfc4bf0aae71eb45b6df3e8 *NAMESPACE
+7c10912b7d7203f2a320ab0b3801de27 *NEWS
+80686395e8907938094c6335fe348048 *R/readability-package.R
+871fa1d9fd6370e666e5fc12dedd6407 *R/readability.R
+9540ef26e6259d50c34b58f54f2f1ac2 *R/sysdata.rda
+cc1fa183bdf50a00bb97ad7095883d6f *R/utils.R
+7f1905f5a00080e4851b1477455cee23 *README.md
+1bece6b80be4076e302b9d8f00b734da *inst/CITATION
+4e17daa1f09f377ddedb50ad03fdf95d *inst/figure/unnamed-chunk-4-1.png
+dbe5aa9f870096bbdd0910022a652161 *man/plot.readability.Rd
+eb6055147dc46764f351322780968cf1 *man/print.readability.Rd
+89f83f14770099d0a5b452e44776b300 *man/readability.Rd
+f0e3e5cd5b93e9db1f7a495c30a5fcb8 *tests/testthat.R
+282179e20200ee09b3f902a39b54b269 *tests/testthat/test-readability.R
